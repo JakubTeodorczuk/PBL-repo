@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello world");
-	
+	puts("Hello world");
+	puts("Second commit, example");
 	return 0;
 }
